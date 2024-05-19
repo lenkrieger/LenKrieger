@@ -1,7 +1,7 @@
 ### Oh, hello there.👋
 
 Welcome, my name is Sviatoslav, and i'm temporarily unemployed junior developer, with previous experience as sysadmin.
-I’m currently learning java and stable diffusion.
+I’m currently working on improving my c# and java knowledge.
 
 ### Languages
 
