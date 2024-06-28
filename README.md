@@ -18,6 +18,6 @@ I’m currently working on improving my c# and java knowledge.
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ### My Pages
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sviatoslav-smola-3522042b6/)](https://www.linkedin.com/in/sviatoslav-smola-3522042b6/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/svyat.smola/)](https://www.instagram.com/svyat.smola/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://aboutlen.website/)](https://aboutlen.website/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sviatoslav-smola-3522042b6/)](https://www.linkedin.com/in/sviatoslav-smola-3522042b6/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/svyat.smola/)](https://www.instagram.com/svyat.smola/)
