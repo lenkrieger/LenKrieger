@@ -1,15 +1,15 @@
 ### Oh, hello there.👋
 
-Welcome, my name is Sviatoslav, and i'm temporarily unemployed junior developer, with previous experience as sysadmin.
-I’m currently working on improving my c# and java knowledge.
+Welcome, my name is Sviatoslav, and i'm temporarily unemployed junior developer, with previous experience as sysadmin. I am a responsible and hardworking programmer who is always looking for opportunities to develop my skills. Always ready to work in a team to achieve new heights. Currently i'm working on improving my c# and java knowledge.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### IDE
