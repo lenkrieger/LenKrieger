@@ -1,4 +1,4 @@
-### Oh, hello there.👋
+## Oh, hello there.👋
 
 Welcome, my name is Sviatoslav, and i'm temporarily unemployed junior developer, with previous experience as sysadmin. I am a responsible and hardworking programmer who is always looking for opportunities to develop my skills. Always ready to work in a team to achieve new heights. Currently i'm working on improving my c# and java knowledge.
 
